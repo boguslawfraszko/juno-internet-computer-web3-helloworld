@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     (async () =>
       await initJuno({
-        satelliteId: "dsg2q-5iaaa-aaaal-adkiq-cai",
+        satelliteId: "id ...",
       }))();
   }, []);
 
